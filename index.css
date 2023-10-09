@@ -1,0 +1,40 @@
+/* #the-founders{
+    font-size: 29px;
+    width: 150%;
+} */
+#gagan{
+    margin-top: 20px;
+    height:150px;
+    width: 250px;
+}
+#aman{
+    /* padding: ; */
+    /* border: 2px solid black; */
+    padding-bottom:10px;
+    height:180px;
+    width: 190px;
+}
+#aman-outer{
+    width: 200px;
+    /* border: 2px solid black; */
+}
+#aman-kumar{
+    margin-top: 10px;
+    margin-left: 0px;
+    height:160px;
+    width: 250px;
+}
+#team-mates{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+#contact-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
